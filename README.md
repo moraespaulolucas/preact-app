@@ -1,2 +1,2 @@
-# preact-app
-My first Preact App
+# preact-vite-app
+My first Preact App made with Vite
